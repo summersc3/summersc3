@@ -1,6 +1,10 @@
-## Hi there 👋
+# Welcome! 👋
 
-<!--
+- My name is Claire Summers and this is my Projects Hub.
+
+## About Me ##
+- I'm a recent Computer Information Systems graduate from the University of Dayton, completing my degree this past spring of 2026. While taking computer science courses, I spent time finishing a graphic design minor, a sustainability minor, and getting concentrations in software engineering and AI & data science. Throughout my expereinces, I've learned that  
+-<!--
 **summersc3/summersc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
