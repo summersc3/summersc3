@@ -1,0 +1,30 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "A RESTful Express.js microservice for COIL project",
+  "keywords": [
+    "Express",
+    "Node.js"
+  ],
+  "homepage": "https://github.com/CPS449-Group5-COIL/CPS449-Group5-COIL#readme",
+  "bugs": {
+    "url": "https://github.com/CPS449-Group5-COIL/CPS449-Group5-COIL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPS449-Group5-COIL/CPS449-Group5-COIL.git"
+  },
+  "license": "ISC",
+  "author": "COIL Team 5",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.21.2",
+    "@google/generative-ai": "^0.24.0"
+  }
+}

@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# Expo build artifacts
+.expo/
+dist/
+web-build/
+
+# Native build folders
+android/
+ios/
+
+# Environment variables
+.env
+.env.*
+
+# Google Cloud Service Account Credentials
+*service-account*.json
+*credentials*.json
+*key*.json
+gcp-*.json
+
+# Misc
+.DS_Store
