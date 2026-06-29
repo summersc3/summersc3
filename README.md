@@ -43,6 +43,8 @@ The system allows for customers to check the money that they have in their bank 
 - Currency exchange rate API
 - Microservice
 
+<br>
+
 ### FE Scheduler Project ###
 #### Description ####
 The FE Scheduler is a web-based scheduling application designed for Flyer Enterprises managers to create, manage, and distribute employee work schedules efficiently. The system will allow authorized managers to generate division-specific schedules, manage employee access using University of Dayton credentials, and integrate with external tools such as Google services to streamline calendar coordination. By implementing a database-driven backend and dynamic schedule generation, the application will replace manual scheduling processes and eliminate hard-coded limitations. Ultimately, the FE Scheduler aims to reduce administrative workload, minimize scheduling errors, improve transparency for employees, and provide a scalable solution that supports smooth leadership transitions each year.
