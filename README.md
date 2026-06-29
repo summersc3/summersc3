@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Welcome!
 
 ## Claire Summers (She/Her) ##
 
@@ -22,6 +22,18 @@ I'm a recent Computer Information Systems graduate from the University of Dayton
     - Zero Waste Student Leader | Hanley Sustainability Institute, University of Dayton | Jan 2025 - May 2026
     - IT Intern | MetLife Legal Plans | Winter 2024 - 2025
     - IT Intern | MetLife Legal Plans | Summer 2024
+
+
+## Project Information ##
+---
+### COIL Project ###
+
+
+### FE Scheduler Project ###
+
+
+### Data Analytics Experience ###
+
 
 
 
