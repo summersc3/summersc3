@@ -2,24 +2,31 @@
 
 ## Claire Summers (She/Her) ##
 
-### Computer Information Systems
-### clairesumms@gmail.com | (440) 539-0708
-### Columbus, OH
+### Computer Information Systems ###
+### clairesumms@gmail.com | (440) 539-0708 ###
+### Columbus, OH ###
 ----
 ### About Me ###
-I'm a recent Computer Information Systems graduate from the University of Dayton, completing my degree this past spring of 2026. While taking computer science courses, I also spent time finishing a graphic design minor, a sustainability minor, and getting concentrations in software engineering and AI & data science. Throughout my expereinces, I've learned that I interested in all the parts that make a whole project. I like to consider all the coding, design, communication, and planning. I'm looking for a full-time opportunity based in Columbus that can tie in different areas of interest. This includes many roles, some being Business Analyst, Software Developer, Web Designer, Web Developer, UI/UX Designer, and similar positions. ####
+I'm a recent Computer Information Systems graduate from the University of Dayton, completing my degree this past spring of 2026. While taking computer science courses, I also spent time finishing a graphic design minor, a sustainability minor, and getting concentrations in software engineering and AI & data science. Throughout my expereinces, I've learned that I interested in all the parts that make a whole project. I like to consider all the coding, design, communication, and planning. I'm looking for a full-time opportunity based in Columbus that can tie in different areas of interest. This includes many roles, some being Business Analyst, Software Developer, Web Designer, Web Developer, UI/UX Designer, and similar positions.
 
 ----
-### Experience in:
+### Experience in: ###
     Software Engineering | AI & Data Science
     Graphic Design | Sustainability Planning & Education
 
-### Technical Exposure
+    Design Website: https://cesummersdesign.weebly.com/
+
+### Technical Exposure ###
 Languages: Java, JavaScript, Python, C# (Unity), HTML, CSS
+
 Frameworks & Libraries: React.js, Bootstrap
+
 Cloud & DevOps: Google Cloud Shell, Azure Web Services, Docker
+
 Databases & APIs: Mongo DB, Intelligent APIs
+
 Design: Figma, Adobe Creative Suite
+
 Other: GitHub, SharePoint, Microsoft Office
 
 ---
