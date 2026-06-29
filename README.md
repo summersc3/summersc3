@@ -11,15 +11,21 @@ I'm a recent Computer Information Systems graduate from the University of Dayton
 
 ----
 ### Experience in:
-    Software Engineering | AI & Data Science | Graphic Design | Sustainability Planning & Education
+    Software Engineering | AI & Data Science
+    Graphic Design | Sustainability Planning & Education
 
-### Software Exposure
-    - React
+### Technical Exposure
+Languages: Java, JavaScript, Python, C# (Unity), HTML, CSS
+Frameworks & Libraries: React.js, Bootstrap
+Cloud & DevOps: Google Cloud Shell, Azure Web Services, Docker
+Databases & APIs: Mongo DB, Intelligent APIs
+Design: Figma, Adobe Creative Suite
+Other: GitHub, SharePoint, Microsoft Office
 
 ---
 ### Work Opportunities:
     - Design Intern | MetLife Legal Plans | Summer 2025
-    - Zero Waste Student Leader | Hanley Sustainability Institute, University of Dayton | Jan 2025 - May 2026
+    - Zero Waste Student Leader | University of Dayton Jan 2025 - May 2026
     - IT Intern | MetLife Legal Plans | Winter 2024 - 2025
     - IT Intern | MetLife Legal Plans | Summer 2024
 
@@ -42,9 +48,7 @@ The system allows for customers to check the money that they have in their bank 
 - AI chatbot API
 - Currency exchange rate API
 - Microservice
-
-<br>
-
+----
 ### FE Scheduler Project ###
 #### Description ####
 The FE Scheduler is a web-based scheduling application designed for Flyer Enterprises managers to create, manage, and distribute employee work schedules efficiently. The system will allow authorized managers to generate division-specific schedules, manage employee access using University of Dayton credentials, and integrate with external tools such as Google services to streamline calendar coordination. By implementing a database-driven backend and dynamic schedule generation, the application will replace manual scheduling processes and eliminate hard-coded limitations. Ultimately, the FE Scheduler aims to reduce administrative workload, minimize scheduling errors, improve transparency for employees, and provide a scalable solution that supports smooth leadership transitions each year.
